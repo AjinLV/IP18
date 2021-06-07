@@ -1,2 +1,3 @@
-# IP18_KB
+# IP18
 KlucuSpele
+Zaudeju pie pirmas izveles
